@@ -1,6 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
   <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Methods for Subjective Determination of Transmission Quality</b:Title>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>methods-for-subjective-determination-of-transmission-quality</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>webMUSHRA - A comprehensive framework for web-based listening tests</b:Title>
+    <b:Year>2018</b:Year>
+    <b:StandardNumber>20499647</b:StandardNumber>
+    <b:Publisher>Ubiquity Press Ltd</b:Publisher>
+    <b:JournalName>Journal of Open Research Software</b:JournalName>
+    <b:Volume>6</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Michael</b:First>
+            <b:Last>Schoeffler</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sarah</b:First>
+            <b:Last>Bartoschek</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fabian Robert</b:First>
+            <b:Last>Stöter</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marlene</b:First>
+            <b:Last>Roess</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Susanne</b:First>
+            <b:Last>Westphal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Bernd</b:First>
+            <b:Last>Edler</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jürgen</b:First>
+            <b:Last>Herre</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>webmushra---a-comprehensive-framework-for-web-based-listening-tests</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>DDSP: Differentiable Digital Signal Processing</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Month>1</b:Month>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jesse</b:First>
+            <b:Last>Engel</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lamtharn</b:First>
+            <b:Last>Hantrakul</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chenjie</b:First>
+            <b:Last>Gu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Adam</b:First>
+            <b:Last>Roberts</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>http:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2001.04643</b:URL>
+    <b:Tag>ddsp:-differentiable-digital-signal-processing</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>CREPE: A Convolutional Representation for Pitch Estimation</b:Title>
+    <b:Year>2018</b:Year>
+    <b:Month>2</b:Month>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jong Wook</b:First>
+            <b:Last>Kim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Justin</b:First>
+            <b:Last>Salamon</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Peter</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Juan Pablo</b:First>
+            <b:Last>Bello</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>http:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;1802.06182</b:URL>
+    <b:Tag>crepe:-a-convolutional-representation-for-pitch-estimation</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Report</b:SourceType>
+    <b:Title>Tone Transfer: In-Browser Interactive Neural Audio Synthesis</b:Title>
+    <b:Year>2021</b:Year>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Michelle</b:First>
+            <b:Last>Carney</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chong</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Edwin</b:First>
+            <b:Last>Toh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nida</b:First>
+            <b:Last>Zada</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ping</b:First>
+            <b:Last>Yu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jesse</b:First>
+            <b:Last>Engel</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>http:&#x2F;&#x2F;ceur-ws.org</b:URL>
+    <b:Tag>tone-transfer:-in-browser-interactive-neural-audio-synthesis</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Neural Waveshaping Synthesis</b:Title>
+    <b:Year>2021</b:Year>
+    <b:Month>7</b:Month>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ben</b:First>
+            <b:Last>Hayes</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Charalampos</b:First>
+            <b:Last>Saitis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>György</b:First>
+            <b:Last>Fazekas</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>http:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2107.05050</b:URL>
+    <b:Tag>neural-waveshaping-synthesis</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>DSPGAN: a GAN-based universal vocoder for high-fidelity TTS by time-frequency domain supervision from DSP</b:Title>
+    <b:Year>2022</b:Year>
+    <b:Month>11</b:Month>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Kun</b:First>
+            <b:Last>Song</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yongmao</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yi</b:First>
+            <b:Last>Lei</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jian</b:First>
+            <b:Last>Cong</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hanzhao</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lei</b:First>
+            <b:Last>Xie</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Gang</b:First>
+            <b:Last>He</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jinfeng</b:First>
+            <b:Last>Bai</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>http:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2211.01087</b:URL>
+    <b:Tag>dspgan:-a-gan-based-universal-vocoder-for-high-fidelity-tts-by-time-frequency-domain-supervision-from-dsp</b:Tag>
+  </b:Source>
+  <b:Source>
     <b:SourceType>Conference Proceedings</b:SourceType>
     <b:Title>FM Tone Transfer with Envelope Learning</b:Title>
     <b:Year>2023</b:Year>
@@ -399,38 +652,6 @@
     </b:Author>
     <b:URL>http:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2206.10935</b:URL>
     <b:Tag>a-study-on-the-evaluation-of-generative-models</b:Tag>
-  </b:Source>
-  <b:Source>
-    <b:SourceType>Journal Article</b:SourceType>
-    <b:Title>DDSP: DIFFERENTIABLE DIGITAL SIGNAL PROCESSING</b:Title>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Jesse</b:First>
-            <b:Last>Engel</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Lamtharn</b:First>
-            <b:Last>Hantrakul</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Chenjie</b:First>
-            <b:Last>Gu</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Adam</b:First>
-            <b:Last>Roberts</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:URL>https:&#x2F;&#x2F;goo.gl&#x2F;magenta&#x2F;ddsp-examples</b:URL>
-    <b:Tag>ddsp:-differentiable-digital-signal-processing</b:Tag>
   </b:Source>
   <b:Source>
     <b:SourceType>Journal Article</b:SourceType>
